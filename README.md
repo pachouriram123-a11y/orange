@@ -147,7 +147,7 @@ Model successfully identifies most actual defaults.
 ## 🔷 ROC Analysis
 
 <p align="center">
-<img src="imagesroc_analysis.png" width="1100"/>
+<img src="./imagesroc_analysis.png.png">
 </p>
 
 ---
