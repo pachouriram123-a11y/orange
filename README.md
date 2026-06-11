@@ -101,7 +101,7 @@ Test & Score
 
 ## 🔷 ROC Analysis
 <p align="center">
-  <img src="./imagesroc_analysis.png" width="900">
+<img src="imagesroc_analysis.png" width="1000"/>
 </p>
 
 ---
